@@ -222,6 +222,10 @@ body.dark-mode .participant-card h4 {
   color: #e0e0e0;
 }
 
+body.dark-mode .participant h4 {
+  color: #e0e0e0;
+}
+
 body.dark-mode .participant-card p {
   color: #bbb;
 }
